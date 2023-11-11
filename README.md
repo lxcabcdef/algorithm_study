@@ -1,1 +1,1 @@
-# algorithm_study
+# 便于记录学习到的算法代码
